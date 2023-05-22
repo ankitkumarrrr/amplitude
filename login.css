@@ -1,0 +1,213 @@
+body{
+    /* background-color: rgba(22, 23, 15, 0.941); */
+    /* background-image:url(https://cdn.wallpapersafari.com/28/20/80MWuG.png); */
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/322/315/802/windows-10-red-in-4k-wallpaper-preview.jpg);
+    background-image: opacity(0.1);
+    /* background-position: 0%; */
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    background-size: 100%;
+    /* opacity: 0.2; */
+    
+}
+#username{
+    width: 50%;
+    margin: auto;
+    height: 20px;
+    font-size: 15px;
+    padding: 2px;
+    border-radius: 2px;
+    border: 2.5px solid green;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+}
+#password{
+    width: 50%;
+    margin: auto;
+    height: 20px;
+    font-size: 15px;
+    padding: 2px;
+    border-radius: 2px;
+    border: 2.5px solid green;
+    position: absolute;
+    left: 20%;
+    top: 35%;
+}
+.form{
+    position: absolute;
+    margin: auto;
+    text-align: center;
+    width: 30%;
+    border: 2px solid rgb(196, 197, 186);
+    border-radius: 20px ;
+    padding: 10px;
+    background-color: rgb(178, 225, 233);
+    height: 70%;
+    left: 15%;
+    top: 15%;
+    opacity: 0.8;
+    color: rgb(18, 20, 20);
+}
+.check{
+    position: absolute;
+    left: 8%;
+
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 45%;
+    margin: auto;
+    }
+    .forgot{
+        position:absolute;
+        left:16%;
+        top: 44%;
+        font-size: 12px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .submit{
+        text-align: center;
+        position: absolute;
+        left: 42%;
+        top: 45%;
+        font-size: 15px;
+
+    }
+    .submit:hover{
+        background-color: antiquewhite;
+        transition: 1s;
+
+    }
+    .member{
+        text-align: center;
+        position: absolute;
+        left: 25%;
+        top: 50%;
+        
+
+    }
+    .scan{
+        position: absolute;
+        left: 28%;
+        top: 85%;
+        padding: 8px;
+        background-color: aquamarine;
+        width: 40%;
+        border-radius: 2px;
+    }
+    .or{
+        position: absolute;
+        left: 45%;
+        top: 55%;
+    }
+    .up{
+        position: absolute;
+        left: 35%;
+        top: 60%;
+    }
+    .fb{
+        position: absolute;
+        top:72% ;
+        left:35% ;
+    }
+    .twit{
+        position: absolute;
+        top:72% ;
+        left:50% ;
+    }
+.register{
+    position: absolute;
+    margin: auto;
+    text-align: center;
+    width: 30%;
+    border: 2px solid rgb(196, 197, 186);
+    border-radius: 20px ;
+    padding: 10px;
+    background-color: rgb(178, 225, 233);
+    height: 70%;
+    left: 55%;
+    top: 15%;
+    opacity: 0.8;
+    color: rgb(18, 20, 20);
+}
+.register1{
+    position: absolute;
+    left: 24%;
+    top: 1%;
+}
+#register2{
+    position: absolute;
+    left: 25%;
+    top: 15%;
+    width: 50%;
+    height: 5%;
+    padding: 2px;
+    /* border-radius: 20px; */
+    border: 2px solid green;
+}
+#register3{
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    width: 50%;
+    height: 5%;
+    padding: 2px;
+    /* border-radius: 20px; */
+    border: 2px solid green;
+}
+.register4{
+    position: absolute;
+    left: 18%;
+    top: 64%;
+}
+#register5{
+    position: absolute;
+    left: 25%;
+    top: 35%;
+    width: 50%;
+    height: 5%;
+    padding: 2px;
+    /* border-radius: 20px; */
+    border: 2px solid green;
+}
+#register6{
+    position: absolute;
+    left: 25%;
+    top: 55%;
+    width: 50%;
+    height: 5%;
+    padding: 2px;
+    /* border-radius: 20px; */
+    border: 2px solid green;
+}
+#register7{
+    position: absolute;
+    left: 25%;
+    top: 45%;
+    width: 50%;
+    height: 5%;
+    padding: 2px;
+    /* border-radius: 20px; */
+    border: 2px solid green;
+}
+.register8{
+    position: absolute;
+    left:19% ;
+    top:69%;
+}
+.register9{
+    position: absolute;
+    left: 25%;
+    top: 85%;
+padding: 5px;
+width: 50%;
+border: 5px solid green;
+margin: auto;
+border-radius: 1px;
+font-size: 15px;
+}
+.register9:hover{
+    background-color: aqua;
+    transition:2s;
+}

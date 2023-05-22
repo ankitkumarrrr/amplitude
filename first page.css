@@ -1,0 +1,183 @@
+.first{
+    opacity: 0.5;
+}
+.start{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    visibility: initial;
+}
+.start2{
+position: absolute;
+left: 16%;
+top: 0%;
+}
+.start3{
+    position: absolute;
+    left: 32%;
+    top: 0%;
+    
+}
+.start4{
+    position: absolute;
+    left: 48.3%;
+    top: 0%;
+    
+}
+.start5{
+    position: absolute;
+    left: 64.5%;
+    top: 0%;
+    
+}
+.start6{
+    position:absolute;
+    left:80.6%;
+    top:0%
+}
+.start7{
+    position:absolute;
+    left:0%;
+    top:33.7%;
+}
+.start8{
+    position:absolute;
+    left:16.1%;
+    top:33.7% ;
+}
+.start9{
+    position: absolute;
+    top:33.7%;
+    left:32% ;
+}
+.start10{
+    position: absolute;
+    top:33.7%;
+    left:48.1% ;
+}
+.start11{
+    position: absolute;
+    top:33.7%;
+    left:64.4% ;
+}
+.start12{
+    position: absolute;
+    top:33.7%;
+    left:80.7% ;
+
+}
+.start13{
+    position: absolute;
+    top:67%;
+    left:0% ;
+
+}
+.start14{
+    position: absolute;
+    top:67%;
+    left:16.2% ;
+
+}
+.start15{
+    position: absolute;
+    top:67%;
+    left:32.5% ;
+
+}
+.start16{
+    position: absolute;
+    top:67%;
+    left:48.9% ;
+
+}
+.start17{
+    position: absolute;
+    top:67%;
+    left:65.3% ;
+
+}
+.start18{
+    position: absolute;
+    top:67%;
+    left:81.8% ;
+
+
+}
+.song{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    width: 16%;
+    color: rgb(112, 216, 143);
+    background-color: rgb(158, 14, 14);
+}
+
+/* .song2{ */
+    /* position: absolute;
+    left: 36%;
+    top: 52%;
+    padding: 5px;
+    background-color: aquamarine;
+    width:25%; */
+/* } */
+.container{
+    font-family: "arial";
+    font-size: 18px;
+    display: block;
+    place-items: center;
+    width: 350px;
+    position: absolute;
+    left: 38%;
+    top: 55%;
+    padding: 1px;
+    /* background-color: aquamarine; */
+    width:21%;
+    border-radius: 3px;
+    margin: auto;
+    border: 5px;
+
+  }
+  
+  .typed {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid;
+    width: 0;
+    animation: typing 2s steps(30, end) forwards , blinking 1s infinite;
+    animation-iteration-count: 1;
+    animation-delay: 2s;
+    animation-timing-function: 2s;
+  }
+ 
+    
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blinking {
+    0% {border-color: transparent}
+    50% {border-color: black}
+    100% {border-color: transparent}
+  }
+  
+
+.song3{
+    position: absolute;
+    left: 45%;
+    top: 70%;
+    padding: 15px;
+    background-color: aquamarine;
+    width:8%;
+    border-radius: 5px;
+    margin: auto;
+    border: 8px;
+    font-size: 20px;
+}
+.song3:hover{
+    background-color: aqua;
+}
+
+
